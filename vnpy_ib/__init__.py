@@ -23,6 +23,7 @@
 import importlib_metadata
 
 from .ib_gateway import IbGateway
+from .ib_datafeed import IbDatafeed
 
 
 try:
